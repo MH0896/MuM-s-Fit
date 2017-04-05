@@ -43,7 +43,7 @@ Dieser Use-Case ermöglicht es dem Benutzer einen oder mehrere ausgewählte Trai
 ### 2. Flow of Events ###
 1. **Basic Flow**  
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Trainingsplan%20l%C3%B6schen.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Trainingsplan%20l%C3%B6schen.png</a>  
-![Basic Flow](https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Trainingsplan%20l%C3%B6schen.png"Basic Flow")
+![Basic Flow](https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Trainingsplan%20l%C3%B6schen.png "Basic Flow")
 2. **Alternative Flows**  
 n/a
 3. **Mock-Ups**  
