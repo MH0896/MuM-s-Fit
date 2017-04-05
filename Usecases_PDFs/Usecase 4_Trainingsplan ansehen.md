@@ -29,7 +29,7 @@
 5. Postconditions
 6. Extension Points
 
-### 1. Use-Case Trainingsplan erstellen ###
+### 1. Use-Case Trainingsplan ansehen ###
 1. **Brief Description**  
 Dieser Use-Case ermöglicht es dem User, den Trainingsplan anzusehen. So kann man sich die Splits und die Übungen ansehen und bei Bedarf bearbeiten (anderer Use-Case)
 
