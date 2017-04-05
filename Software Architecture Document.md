@@ -1,16 +1,10 @@
-----------
-#MuM's Fit#
-
-----------
-<br><br>
-
 **MuM's Fit**  
 **Software Architecture Document**
 
 **Version 1.5**
 
 <br>
-##Revision History##
+## Revision History ##
 <html>
 <table>
 <tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
@@ -43,8 +37,8 @@
 11. Quality
 
 <br>
-##Software Architecture Document##
-###1. Introduction###
+## Software Architecture Document ##
+### 1. Introduction ###
 1. **Purpose**
 <br>Dieses Dokument soll eine Übersicht über die Smartphone-App “MuM’s Fit” aus diversen architektonischen Sichtweisen geben.
 2. **Definitions, Acronyms, and Abbreviations**
@@ -58,50 +52,50 @@
 </table>
 
 <br>
-###2. Architectural Representation###
+### 2. Architectural Representation ###
 <a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a><br>
 ![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/MVP_WebGrafik.png "MVP Architecture")
 
 <br>
-###3. Achitectural Goals and Constraints###
+### 3. Achitectural Goals and Constraints ###
 Wir wenden die klassischen MVC (bzw. MVP) Prinzipien an. Wir benutzen kein spezielles Tool dafür, da wir mit Android Studio arbeiten und das dort schon vorhanden ist.  
 Wie in der Grafik in Punkt 2 zu sehen ist wird unsere View vom Model isoliert und weiß sozusagen nichts. Jegliche Änderungen werden über den Presenter vorgenommen und an die View weitergeleitet.
 
 <br>
-###4. Use-Case View###
+### 4. Use-Case View ###
 Overall-Use-Case-Diagram:<br>
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png</a>
 
 <br>
-###5. Logical View###
+### 5. Logical View ###
 1. **Architecturally Significant Design Packages**
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png">https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png</a><br>
 ![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png "MVP Architecture")
 
 <br>
-###6. Process View###
+### 6. Process View ###
 tbd
 
 <br>
-###7. Deployment View###
+### 7. Deployment View ###
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png">https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png</a><br>
 ![Deployment View](https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png "Deployment View")
 
 <br>
-###8. Implementation View###
+### 8. Implementation View ###
 tbd
 
 <br>
-###9. Data View###
+### 9. Data View ###
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG</a><br>
 ![Data View](https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG "Data View")
 
 <br>
-###10. Size and Performance###
+### 10. Size and Performance ###
 tbd
 
 <br>
-###11. Quality###
+### 11. Quality ###
 tbd
 
 <br>
