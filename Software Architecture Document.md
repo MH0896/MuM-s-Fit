@@ -11,6 +11,7 @@
 
 <br>
 ##Revision History##
+<html>
 <table>
 <tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
 <tr><td>21/11/2016</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
@@ -21,6 +22,7 @@
 <tr><td>14/12/2016</td><td>1.5</td><td>Deployment View Hinzugefügt</td><td>MuM</td></tr>
 <tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
 </table>
+</html>
 
 <br>
 ## Table of Contents##
