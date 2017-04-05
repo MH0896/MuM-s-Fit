@@ -36,12 +36,12 @@
 11. Quality
 
 ### 1. Introduction ###
-1. **Purpose**
-<br>Dieses Dokument soll eine Übersicht über die Smartphone-App “MuM’s Fit” aus diversen architektonischen Sichtweisen geben.
-2. **Definitions, Acronyms, and Abbreviations**
-<br>MuM = Max und Moritz
-<br> n/a = not applicable
-<br>tbd = to be determined
+1. **Purpose**  
+Dieses Dokument soll eine Übersicht über die Smartphone-App “MuM’s Fit” aus diversen architektonischen Sichtweisen geben.
+2. **Definitions, Acronyms, and Abbreviations**  
+MuM = Max und Moritz  
+n/a = not applicable  
+tbd = to be determined
 3. **References**
 <table>
 <tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md</a></td></tr>
@@ -61,7 +61,7 @@ Overall-Use-Case-Diagram:<br>
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png</a>
 
 ### 5. Logical View ###
-1. **Architecturally Significant Design Packages**
+1. **Architecturally Significant Design Packages**  
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png">https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png</a><br>
 ![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png "MVP Architecture")
 
