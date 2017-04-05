@@ -44,7 +44,7 @@
 <br>tbd = to be determined
 3. **References**
 <table>
-<tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.pdf</a></td></tr>
+<tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md</a></td></tr>
 <tr><td>Grafik MVP</td><td><a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a></td></tr>
 </table>
 

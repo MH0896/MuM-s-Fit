@@ -85,12 +85,12 @@ tbd = to be determined
 <table>
 <tr><td>Blog</td><td><a href="https://mumsfit.wordpress.com/">https://mumsfit.wordpress.com/</a></td></tr>
 <tr><td>Git</td><td><a href="https://github.com/MH0896/MuM-s-Fit">https://github.com/MH0896/MuM-s-Fit</a></td></tr>
-<tr><td>Use-Case Details ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.pdf</a></td></tr>
-<tr><td>Use-Case Trainingsplan löschen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.pdf</a></td></tr>
-<tr><td>Use-Case Trainingsplan erstellen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.pdf</a></td></tr>
-<tr><td>Use-Case Trainingsplan ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.pdf</a></td></tr>
-<tr><td>Use-Case Trainingsplan bearbeiten</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.pdf</a></td></tr>
-<tr><td>Software Architecture Document</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Architecture%20Document.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Architecture%20Document.pdf</a></td></tr>
+<tr><td>Use-Case Details ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan löschen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan erstellen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan bearbeiten</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md</a></td></tr>
+<tr><td>Software Architecture Document</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Architecture%20Document.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Architecture%20Document.md</a></td></tr>
 </table>
 
 ### 2. Overall Description ###
@@ -128,21 +128,21 @@ GitHub: <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UC
 Der User kann von dem Hauptbildschirm aus diese Aktionen ausführen:  
 
         Usecase Details ansehen:  
-		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.pdf</a>  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%201_Details%20ansehen.md</a>  
 
 		Usecase Trainingsplan löschen:  
-		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.pdf</a>  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%202_Trainingsplan%20l%C3%B6schen.md</a>  
 
 		Usecase Trainingsplan erstellen:  
-		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.pdf</a>
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%203_Trainingsplan%20erstellen.md</a>
 	3. Bearbeitungs-Optionen  
 Weiterhin kann der User bei ausgewähltem (geöffneten) Trainingsplan folgende Aktionen ausführen:
  
 		Usecase Trainingsplan ansehen:  
-		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.pdf</a>
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md</a>
 
 		Usecase Trainunsplan bearbeiten:
-		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.pdf">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.pdf</a>
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md</a>
 	4. Beenden  
 Diese Funktion ist ähnlich wie bei den meisten auf dem Markt verfügbaren Apps implementiert. Drückt man den „zurück-button“ auf seinem Handy, erscheint ein sog. „Toast“ (eine Art Pop-Up) mit der Info, dass man diese Taste erneut drücken soll um die App zu schließen. Dafür hat man 2 Sekunden Zeit. So wird ein versehentliches schließen der App verhindert.
 2. **Usability**
