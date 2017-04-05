@@ -1,5 +1,5 @@
 -------------
-# MuM's Fit Software Architecture Document#
+# MuM's Fit Software Architecture Document #
 -------------
 **MuM's Fit**  
 **Software Architecture Document**
