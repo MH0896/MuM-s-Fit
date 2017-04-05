@@ -122,7 +122,7 @@ Für das Senden bzw. Empfangen eines Plans werden eine Internetverbindung und ei
 ### 3. Specific Requirements ###
 1. **Funcionality**
 	1. Overall Use-Case-Diagram  
-GitHub: <a href=" https://github.com/MH0896/MuM-s-Fit/blob/master/Overall_UCD.png"> https://github.com/MH0896/MuM-s-Fit/blob/master/Overall_UCD.png</a>  
+GitHub: <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png</a>  
 ![Overall UCD](https://github.com/MH0896/MuM-s-Fit/blob/master/Overall_UCD.png "Overall UCD")
 	2. Startseiten Optionen  
 Der User kann von dem Hauptbildschirm aus diese Aktionen ausführen:  
