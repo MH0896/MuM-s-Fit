@@ -40,7 +40,7 @@ Dieser Usecase ermöglicht es dem Benutzer auf genauere Informationen eines best
 	Link zum SRS:   
 	<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md</a>
 
-###2. Flow of Events ###
+### 2. Flow of Events ###
 1. **Basic Flow**  
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Details%20ansehen.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Details%20ansehen.png</a>  
 ![Basic Flow](https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Use%20Case-%20Details%20ansehen.png "Basic Flow")
@@ -54,8 +54,7 @@ Der Benutzer kann das Detailfenster auch schließen, in dem er nicht auf den zur
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Details-ansehen/Details%20Ansehen.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Details-ansehen/Details%20Ansehen.png</a>  
 ![Screenshots](https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Details-ansehen/Details%20Ansehen.png "Screenshots")
 5. **Features**  
-<a href="https://github.com/MH0896/MuMsFit/blob/master/features/ViewDetails.feature">https://github.com/MH0896/MuMsFit/blob/master/features/ViewDetails.feature</a>  
-![Features](https://github.com/MH0896/MuMsFit/blob/master/features/ViewDetails.feature "Features")
+<a href="https://github.com/MH0896/MuMsFit/blob/master/features/ViewDetails.feature">https://github.com/MH0896/MuMsFit/blob/master/features/ViewDetails.feature</a>
 
 ### 3. Special Requirements ###
 1. **Functionality on Android**  
