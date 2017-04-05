@@ -52,7 +52,7 @@ Wen ein neuer Plan genau so benannt wird wie ein bereits bestehender Plan, schli
 ![Mock-Ups](https://github.com/MH0896/MuM-s-Fit/blob/master/Mock-Ups/Mockup-%20Trainingsplan%20Erstellen.png "Mock-Ups")
 4. **Screenshots**  
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_1-3.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_1-3.png</a>  
-![Screenshots 1-3](https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_1-3.png")
+![Screenshots 1-3](https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_1-3.png "Screenshots 1-3")
 
 	<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_4-6.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_4-6.png</a>  
 	![Screenshots 4-6](https://github.com/MH0896/MuM-s-Fit/blob/master/Screenshots/Trainingsplan-erstellen/Create%20Plan_4-6.png "Screenshots 4-6")
