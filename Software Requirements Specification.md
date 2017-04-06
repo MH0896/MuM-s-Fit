@@ -141,7 +141,7 @@ Weiterhin kann der User bei ausgewähltem (geöffneten) Trainingsplan folgende A
 		Usecase Trainingsplan ansehen:  
 		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%204_Trainingsplan%20ansehen.md</a>
 
-		Usecase Trainunsplan bearbeiten:
+		Usecase Trainunsplan bearbeiten:  
 		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases_PDFs/Usecase%205_Trainingsplan%20bearbeiten.md</a>
 	4. Beenden  
 Diese Funktion ist ähnlich wie bei den meisten auf dem Markt verfügbaren Apps implementiert. Drückt man den „zurück-button“ auf seinem Handy, erscheint ein sog. „Toast“ (eine Art Pop-Up) mit der Info, dass man diese Taste erneut drücken soll um die App zu schließen. Dafür hat man 2 Sekunden Zeit. So wird ein versehentliches schließen der App verhindert.
