@@ -19,7 +19,7 @@
 </table>
 
 ## Table of Contents ##
-1. Use-Case Details ansehen
+1. Use-Case Trainingsplan löschen
 	1. Brief Description
 2. Overall Description
 	1. Basic Flow
