@@ -44,13 +44,13 @@ n/a = not applicable
 tbd = to be determined
 3. **References**
 <table>
-<tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Software%20Requirements%20Specification.md</a></td></tr>
+<tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a></td></tr>
 <tr><td>Grafik MVP</td><td><a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a></td></tr>
 </table>
 
 ### 2. Architectural Representation ###
 <a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a><br>
-![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/MVP_WebGrafik.png "MVP Architecture")
+![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/MVP_WebGrafik.png "MVP Architecture")
 
 ### 3. Achitectural Goals and Constraints ###
 Wir wenden die klassischen MVC (bzw. MVP) Prinzipien an. Wir benutzen kein spezielles Tool dafür, da wir mit Android Studio arbeiten und das dort schon vorhanden ist.  
@@ -58,26 +58,26 @@ Wie in der Grafik in Punkt 2 zu sehen ist wird unsere View vom Model isoliert un
 
 ### 4. Use-Case View ###
 Overall-Use-Case-Diagram:<br>
-<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png">https://github.com/MH0896/MuM-s-Fit/blob/master/UCDs/Overall_UCD.png</a>
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Overall_UCD.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Overall_UCD.png</a>
 
 ### 5. Logical View ###
 1. **Architecturally Significant Design Packages**  
-<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png">https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png</a><br>
-![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/MVP-Architecture.png "MVP Architecture")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/MVP-Architecture.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/MVP-Architecture.png</a><br>
+![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/MVP-Architecture.png "MVP Architecture")
 
 ### 6. Process View ###
 tbd
 
 ### 7. Deployment View ###
-<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png">https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png</a><br>
-![Deployment View](https://github.com/MH0896/MuM-s-Fit/blob/master/DeploymentView.png "Deployment View")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png</a><br>
+![Deployment View](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png "Deployment View")
 
 ### 8. Implementation View ###
 tbd
 
 ### 9. Data View ###
-<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG</a><br>
-![Data View](https://github.com/MH0896/MuM-s-Fit/blob/master/db-schema.PNG "Data View")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG</a><br>
+![Data View](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG "Data View")
 
 ### 10. Size and Performance ###
 tbd
