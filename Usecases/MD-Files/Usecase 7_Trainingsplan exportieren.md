@@ -10,6 +10,7 @@
 <table>
 <tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
 <tr><td>14/04/2017</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
+<tr><td>18/04/2017</td><td>1.1</td><td>Mock-ups und UCD hinzugefügt</td><td>MuM</td></tr>
 </table>
 
 ## Table of Contents ##
@@ -34,13 +35,13 @@ Dieser Usecase ermöglicht es dem Benutzer, seinen Trainingsplan zu exportieren,
 
 ### 2. Flow of Events ###
 1. **Basic Flow**  
-<a href="TODO">TODO</a>  
-![Basic Flow](TODO "Basic Flow")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20exportieren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20exportieren.png</a>  
+![Basic Flow](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20exportieren.png "Basic Flow")
 2. **Alternative Flows**  
 n/a
 3. **Mock-Ups**  
-<a href="TODO">TODO</a>  
-![Mock-Ups](TODO "Mock-Ups")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Trainingsplan%20exportieren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Trainingsplan%20exportieren.png</a>  
+![Mock-Ups](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Trainingsplan%20exportieren.png "Mock-Ups")
 4. **Screenshots**  
 <a href="TODO">TODO</a>  
 ![Screenshots](TODO "Screenshots")

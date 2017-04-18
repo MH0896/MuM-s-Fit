@@ -28,7 +28,7 @@
 
 ### 1. Use-Case Training durchführen ###
 1. **Brief Description**  
-Dieser Usecase ermöglicht es dem Benutzer, Änderungen an den Einstellungen vorzunehmen. Beispielsweise kann die Sprache geändert oder das Farbschema geändert werden.
+Dieser Usecase ermöglicht es dem Benutzer, das Training durchzuführen. Dabei wird die benötigte Zeit gemessen und der Nutzer kann eintragen, wie viel Gewicht er in den jeweiligen Übungen verwendet hat.
 	Link zum SRS:   
 	<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a>
 
