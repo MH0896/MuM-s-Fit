@@ -19,6 +19,7 @@
 <tr><td>10/12/2016</td><td>1.7</td><td>UCD Plan bearbeiten Hinzugefügt</td><td>MuM</td></tr>
 <tr><td>12/12/2016</td><td>1.8</td><td>Fehlende Punkte ausgefüllt</td><td>MuM</td></tr>
 <tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
+<tr><td>20/04/2017</td><td>2.1</td><td>neue Usecases hinzugefügt</td><td>MuM</td></tr>
 </table>
 
 ## Table of Contents ##
@@ -90,6 +91,11 @@ tbd = to be determined
 <tr><td>Use-Case Trainingsplan erstellen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md</a></td></tr>
 <tr><td>Use-Case Trainingsplan ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%204_Trainingsplan%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%204_Trainingsplan%20ansehen.md</a></td></tr>
 <tr><td>Use-Case Trainingsplan bearbeiten</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md</a></td></tr>
+<tr><td>Use-Case Einstellungen ändern</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan exportieren</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md</a></td></tr>
+<tr><td>Use-Case Trainingsplan importieren</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md</a></td></tr>
+<tr><td>Use-Case Analyse ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md</a></td></tr>
+<tr><td>Use-Case Training durchführen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md</a></td></tr>
 <tr><td>Software Architecture Document</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md</a></td></tr>
 </table>
 
@@ -135,6 +141,12 @@ Der User kann von dem Hauptbildschirm aus diese Aktionen ausführen:
 
 		Usecase Trainingsplan erstellen:  
 		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md</a>
+
+		Usecase Einstellungen ändern:  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md</a>
+
+		Usecase Trainingsplan importieren:  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md">hhttps://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md</a>
 	3. Bearbeitungs-Optionen  
 Weiterhin kann der User bei ausgewähltem (geöffneten) Trainingsplan folgende Aktionen ausführen:
  
@@ -143,6 +155,15 @@ Weiterhin kann der User bei ausgewähltem (geöffneten) Trainingsplan folgende A
 
 		Usecase Trainunsplan bearbeiten:
 		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md</a>
+
+		Usecase Trainingsplan exportieren:  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md</a>
+
+		Usecase Analyse ansehen:  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md</a>
+
+		Usecase Training durchführen:  
+		<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md</a>
 	4. Beenden  
 Diese Funktion ist ähnlich wie bei den meisten auf dem Markt verfügbaren Apps implementiert. Drückt man den „zurück-button“ auf seinem Handy, erscheint ein sog. „Toast“ (eine Art Pop-Up) mit der Info, dass man diese Taste erneut drücken soll um die App zu schließen. Dafür hat man 2 Sekunden Zeit. So wird ein versehentliches schließen der App verhindert.
 2. **Usability**
