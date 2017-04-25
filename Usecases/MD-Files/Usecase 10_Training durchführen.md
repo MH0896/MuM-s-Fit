@@ -25,6 +25,7 @@
 4. Preconditions
 5. Postconditions
 6. Extension Points
+	1. Function Points
 
 ### 1. Use-Case Training durchführen ###
 1. **Brief Description**  
@@ -56,4 +57,5 @@ Die App muss gestartet sein und es muss ein Trainingsplan vorhanden sein.
 n/a
 
 ### 6. Extension Points ###
+1. Function Points  
 n/a

@@ -4,12 +4,13 @@
 **MuM's Fit**  
 **Use-Case Specification: Einstellungen ändern**
 
-**Version 1.0**
+**Version 1.1**
 
 ## Revision History ##
 <table>
 <tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
 <tr><td>14/04/2017</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
+<tr><td>25.04.2017</td><td>1.1</td><td>Function Point Calculation added</td><td>MuM</td></tr>
 </table>
 
 ## Table of Contents ##
@@ -25,6 +26,7 @@
 4. Preconditions
 5. Postconditions
 6. Extension Points
+	1. Function Points
 
 ### 1. Use-Case Einstellungen ändern ###
 1. **Brief Description**  
@@ -56,4 +58,14 @@ Die App muss gestartet sein.
 n/a
 
 ### 6. Extension Points ###
-n/a
+1. Function points = **20,15**; Estimation = 4h50m   
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Einstellungen%20%C3%A4ndern.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Einstellungen%20%C3%A4ndern.PNG</a>  
+![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Einstellungen%20%C3%A4ndern.PNG "FPs")  
+<table>
+<tr><td>Transaction Data / Functionality</td><td>DET</td><td>RET</td><td>FTR</td><td>Complexity</td><td>Count</td></tr>
+<tr><td>External Inputs</td><td>4</td><td>-</td><td>1</td><td>LOW</td><td>3</td></tr>
+<tr><td>External Outputs</td><td>2</td><td>-</td><td>1</td><td>LOW</td><td>2</td></tr>
+<tr><td>External Inqueries</td><td>0</td><td>-</td><td>0</td><td>LOW</td><td>0</td></tr>
+<tr><td>Internal Logical Files</td><td>2</td><td>1</td><td>-</td><td>LOW</td><td>2</td></tr>
+<tr><td>External Interface Files</td><td>0</td><td>0</td><td>-</td><td>LOW</td><td>0</td></tr>
+</table>

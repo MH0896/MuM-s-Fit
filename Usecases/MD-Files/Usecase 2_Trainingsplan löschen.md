@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Use-Case Specification: Trainingsplan löschen**
 
-**Version 2.0**
+**Version 2.1**
 
 ## Revision History ##
 <table>
@@ -16,6 +16,7 @@
 <tr><td>23/11/2016</td><td>1.4</td><td>Screenshots hinzugefügt</td><td>MuM</td></tr>
 <tr><td>23/11/2016</td><td>1.5</td><td>UCD korrigiert / erweitert</td><td>MuM</td></tr>
 <tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
+<tr><td>25.04.2017</td><td>2.1</td><td>Function Point Calculation added</td><td>MuM</td></tr>
 </table>
 
 ## Table of Contents ##
@@ -32,6 +33,7 @@
 4. Preconditions
 5. Postconditions
 6. Extension Points
+	1. Function Points
 
 ### 1. Use-Case Trainingsplan löschen ###
 1. **Brief Description**  
@@ -69,4 +71,14 @@ Die App muss gestartet sein und es muss ein Trainingsplan vorhanden sein
 n/a
 
 ### 6. Extension Points ###
-n/a
+1. Function points = **28,6**; Estimation = 6h20m  
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20l%C3%B6schen.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20l%C3%B6schen.PNG</a>  
+![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20l%C3%B6schen.PNG "FPs")  
+<table>
+<tr><td>Transaction Data / Functionality</td><td>DET</td><td>RET</td><td>FTR</td><td>Complexity</td><td>Count</td></tr>
+<tr><td>External Inputs</td><td>3</td><td>-</td><td>2</td><td>LOW</td><td>3</td></tr>
+<tr><td>External Outputs</td><td>0</td><td>-</td><td>0</td><td>LOW</td><td>0</td></tr>
+<tr><td>External Inqueries</td><td>0</td><td>-</td><td>0</td><td>LOW</td><td>0</td></tr>
+<tr><td>Internal Logical Files</td><td>8</td><td>2</td><td>-</td><td>LOW</td><td>5</td></tr>
+<tr><td>External Interface Files</td><td>0</td><td>0</td><td>-</td><td>LOW</td><td>0</td></tr>
+</table>  
