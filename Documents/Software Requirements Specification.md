@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Software Requirements Specification**
 
-**Version 2.0**
+**Version 2.2**
 
 ## Revision History ##
 <table>
@@ -20,6 +20,7 @@
 <tr><td>12/12/2016</td><td>1.8</td><td>Fehlende Punkte ausgefüllt</td><td>MuM</td></tr>
 <tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
 <tr><td>20/04/2017</td><td>2.1</td><td>neue Usecases hinzugefügt</td><td>MuM</td></tr>
+<tr><td>25/04/2017</td><td>2.2</td><td>Links hinzugefügt</td><td>MuM</td></tr>
 </table>
 
 ## Table of Contents ##
@@ -85,7 +86,7 @@ tbd = to be determined
 4. **References**
 <table>
 <tr><td>Blog</td><td><a href="https://mumsfit.wordpress.com/">https://mumsfit.wordpress.com/</a></td></tr>
-<tr><td>Git</td><td><a href="https://github.com/MH0896/MuM-s-Fit">https://github.com/MH0896/MuM-s-Fit</a></td></tr>
+<tr><td>GitHub</td><td><a href="https://github.com/MH0896/MuM-s-Fit">https://github.com/MH0896/MuM-s-Fit</a></td></tr>
 <tr><td>Use-Case Details ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%201_Details%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%201_Details%20ansehen.md</a></td></tr>
 <tr><td>Use-Case Trainingsplan löschen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%202_Trainingsplan%20l%C3%B6schen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%202_Trainingsplan%20l%C3%B6schen.md</a></td></tr>
 <tr><td>Use-Case Trainingsplan erstellen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md</a></td></tr>
@@ -97,6 +98,8 @@ tbd = to be determined
 <tr><td>Use-Case Analyse ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md</a></td></tr>
 <tr><td>Use-Case Training durchführen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md</a></td></tr>
 <tr><td>Software Architecture Document</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md</a></td></tr>
+<tr><td>Function Points</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Complexity%20Adjustment%20Table.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Complexity%20Adjustment%20Table.PNG</a></td></tr>
+<tr><td>Risikomanagement</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md</a></td></tr>
 </table>
 
 ### 2. Overall Description ###
