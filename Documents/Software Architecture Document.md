@@ -43,8 +43,6 @@ n/a = not applicable
 tbd = to be determined
 3. **References**  
 
-| File       | Link                                                                                                 |
-|------------|------------------------------------------------------------------------------------------------------|
 | SRS        | https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md |
 | Grafik MVP | http://www.techyourchance.com/mvp-mvc-android-1/                                                     |
 
