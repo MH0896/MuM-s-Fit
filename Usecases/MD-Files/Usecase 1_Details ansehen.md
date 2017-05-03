@@ -7,16 +7,15 @@
 **Version 2.1**
 
 ## Revision History ##
-<table>
-<tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
-<tr><td>20/10/2016</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
-<tr><td>01/11/2016</td><td>1.1</td><td>Mockup hinzugefügt</td><td>MuM</td></tr>
-<tr><td>10/11/2016</td><td>1.2</td><td>UCD korrigiert (korrektes UML format)</td><td>MuM</td></tr>
-<tr><td>23/11/2016</td><td>1.4</td><td>Screenshots und features hinzugefügt</td><td>MuM</td></tr>
-<tr><td>23/11/2016</td><td>1.5</td><td>UCD korrigiert / erweitert</td><td>MuM</td></tr>
-<tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
-<tr><td>25.04.2017</td><td>2.1</td><td>Function Point Calculation added</td><td>MuM</td></tr>
-</table>
+|Date|Version|>Description|Author|
+|----|----|----|----|
+|20/10/2016|1.0|Dokument erstellt|MuM
+|01/11/2016|1.1|Mockup hinzugefügt|MuM|
+|10/11/2016|1.2|UCD korrigiert (korrektes UML format)|MuM|
+|23/11/2016|1.4|Screenshots und features hinzugefügt|MuM|
+|23/11/2016|1.5|UCD korrigiert / erweitert|MuM|
+|05/04/2017|2.0|Dateiformat zu .md geändert|MuM|
+|25.04.2017|2.1|Function Point Calculation added|MuM|
 
 ## Table of Contents ##
 1. Use-Case Details ansehen
@@ -72,11 +71,10 @@ n/a
 1. Function points = **25,35**; Estimation = 6h30m   
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG</a>  
 ![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG "FPs")  
-<table>
-<tr><td>Transaction Data / Functionality</td><td>DET</td><td>RET</td><td>FTR</td><td>Complexity</td><td>Count</td></tr>
-<tr><td>External Inputs</td><td>2</td><td>-</td><td>1</td><td>LOW</td><td>2</td></tr>
-<tr><td>External Outputs</td><td>4</td><td>-</td><td>1</td><td>LOW</td><td>3</td></tr>
-<tr><td>External Inqueries</td><td>0</td><td>-</td><td>0</td><td>LOW</td><td>0</td></tr>
-<tr><td>Internal Logical Files</td><td>4</td><td>1</td><td>-</td><td>LOW</td><td>3</td></tr>
-<tr><td>External Interface Files</td><td>0</td><td>0</td><td>-</td><td>LOW</td><td>0</td></tr>
-</table>
+|Transaction Data / Functionality|DET|RET|FTR|Complexity|Count|
+|----|----|----|----|----|----|
+|External Inputs|2|-|1|LOW|2|
+|External Outputs|4|-|1|LOW|3|
+|External Inqueries|0|-|0|LOW|0|
+|Internal Logical Files|4|1|-|LOW|>3|
+|External Interface Files|0|0|-|LOW|0|
