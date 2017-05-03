@@ -120,15 +120,15 @@ Mitglieder des Projektteams und Entwickler
 |Oracles|Tests sind erfolgreich, wenn jede Interaktion mit der GUI das gewünschte Ergebnis bringt|
 |Required Tools|Calabash|
 |Success Criteria|All tests pass successfully|
-|Special Considerations|/|  
-	5. Performance Profiling
-	6. Load Testing
-	7. Stress Testing
-	8. Volume Testing
-	9. Security and Access Control Testing
-	10. Failover and Recovery Testing
-	11. Configuration Testing
-	12. Installation Testing
+|Special Considerations|/|   
+		5. Performance Profiling
+		6. Load Testing
+		7. Stress Testing
+		8. Volume Testing
+		9. Security and Access Control Testing
+		10. Failover and Recovery Testing
+		11. Configuration Testing
+		12. Installation Testing
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
 	1. Test Plan Entry Criteria
