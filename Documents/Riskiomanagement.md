@@ -4,15 +4,15 @@
 **MuM's Fit**  
 **Risikomanagement**
 
-<table>
-<tr><td>Risk name</td><td>Risk Description</td><td>Risk probability of occurence</td><td>Risk impact</td><td>Risc factor</td><td>Risk mitigration</td><td>Person in charge of tracking</td></tr>
-<tr><td>fehlende Korrektheit des Codes</td><td>kein Code-Review von dneren Teammitgliedern</td><td>75%</td><td>9</td><td>6,75</td><td>Code-Review, Tests</td><td>MuM</td></tr>
-<tr><td>Unrealistische Deadlines</td><td>nicht erreichen der Deadline bzw. zu geringe Abschätzung der Aufgaben</td><td>70%</td><td>5</td><td>3,5</td><td>Neuabschätzung der Aufgaben, Aufgaben herunterbrechen</td><td>Max</td></tr>
-<tr><td>Klausuren / andere Vorlesungen</td><td>Lernen für Prüfungen beansprucht zu viel Zeit</td><td>50%</td><td>6</td><td>3</td><td>früh mit lernen anfangen, großteil des Workloads auf Anfang des Semesters legen</td><td>MuM</td></tr>
-<tr><td>Technische Probleme</td><td>zum Beispiel Hardwareprobleme</td><td>45%</td><td>6</td><td>2,7</td><td>Probleme Fixen bzw. Geräte austauschen</td><td>Moritz</td></tr>
-<tr><td>Personalprobleme</td><td>Ausfall eines Teammitglieds</td><td>25%</td><td>10</td><td>2,5</td><td>Verantwortungs- bzw. Aufgabenneuverteilung</td><td>Max</td></tr>
-<tr><td>Probleme mit externen Komponenten</td><td>Tools von externen Firmen sind veraltet oder bereiten Probleme</td><td>30%</td><td>7</td><td>2,1</td><td>weniger externe Tools verwenden oder nach Alternativen suchen</td><td>Moritz</td></tr>
-<tr><td>Fehlende Kommunikation</td><td>Teammitglieder reden nicht über aufgetretene Probleme</td><td>25%</td><td>8</td><td>2</td><td>regelmäßige Statusmeetings</td><td>MuM</td></tr>
-<tr><td>Probleme mit GUI</td><td>Anwendung funktioniert nicht bei bestimmten Auflösungen</td><td>40%</td><td>4</td><td>1,6</td><td>Tests auf größeren Bildschirmen und anpassen der Grafiken</td><td>Moritz</td></tr>
-</table>
+
+| Risk Name                         | Risk Description                                                      | Risk probability of occurence | Risk impact | Risc factor | Risk mitigration                                                                | Person in charge of tracking |
+|-----------------------------------|-----------------------------------------------------------------------|-------------------------------|-------------|-------------|---------------------------------------------------------------------------------|------------------------------|
+| Fehlende Korrektheit des Codes    | kein Code-Review von anderen Temmitgliedern                           | 75%                           | 9           | 6.75        | Code-Review, Tests                                                              | MuM                          |
+| Unrealistische Deadlines          | nicht erreichen der Deadline bzw. zu geringe Abschätzung der Aufgaben | 70%                           | 5           | 3.5         | Neuabschätzung der Aufgaben, Aufgaben herunterbrechen                           | Max                          |
+| Klausuren / andere Vorlesungen    | Lernen für Prüfungen beansprucht zu viel Zeit                         | 50%                           | 6           | 3           | früh mit lernen anfangen, großteil des Workloads auf Anfang des Semesters legen | MuM                          |
+| Technische Probleme               | zum Beispiel Hardwareprobleme                                         | 45%                           | 6           | 2.7         | Probleme Fixen bzw. Geräte austauschen                                          | Moritz                       |
+| Personalprobleme                  | Ausfall eines Teammitglieds                                           | 25%                           | 10          | 2.5         | Verantwortungs- bzw. Aufgabenneuverteilung                                      | Max                          |
+| Probleme mit externen Komponenten | Tools von externen Firmen sind veraltet oder bereiten Probleme        | 30%                           | 7           | 2.1         | weniger externe Tools verwenden oder nach Alternativen suchen                   | Moritz                       |
+| Fehlende Kommunikation            | Teammitglieder reden nicht über aufgetretene Probleme                 | 25%                           | 8           | 2           | regelmäßige Statusmeetings                                                      | MuM                          |
+| Probleme mit GUI                  | Anwendung funktioniert nicht bei bestimmten Auflösungen               | 40%                           | 4           | 1.6         | Tests auf größeren Bildschirmen und anpassen der Grafiken                       | Moritz                       |
 
