@@ -42,10 +42,10 @@ MuM = Max und Moritz
 n/a = not applicable  
 tbd = to be determined
 3. **References**  
-|File|Link|
-|---|---|
-|SRS|<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a>|
-|Grafik MVP|<a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a>|
+| File | Link |
+| --- | --- |
+| SRS | <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a> |
+| Grafik MVP | <a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a> |
 
 ### 2. Architectural Representation ###
 <a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a><br>
