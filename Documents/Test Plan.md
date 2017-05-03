@@ -12,6 +12,11 @@
 <tr><td>26/04/2017</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
 </table>
 
+|Date|Version|Description|Author|
+|---|---|---|---|
+|26/04/2017|1.0|Dokument erstellt|MuM|
+
+
 ## Table of Contents ##
 1. Introduction
 	1. Purpose
@@ -30,8 +35,8 @@
 	2. Outline of other candidates for potential inclusion
 	3. Outline of Test Exclusions
 5. Test Approach
-	2. Initial Test-Idea Catalogs and other reference sources
-	3. Testing Techniques and Types
+	1. Initial Test-Idea Catalogs and other reference sources
+	2. Testing Techniques and Types
 		1. Data and Database Integrity Testing
 		2. Function Testing
 		3. Business Cycle Testing
