@@ -77,5 +77,5 @@ n/a
 |External Inputs|2|-|1|LOW|2|
 |External Outputs|4|-|1|LOW|3|
 |External Inqueries|0|-|0|LOW|0|
-|Internal Logical Files|4|1|-|LOW|>3|
+|Internal Logical Files|4|1|-|LOW|3|
 |External Interface Files|0|0|-|LOW|0|

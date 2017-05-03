@@ -7,13 +7,14 @@
 **Version 2.1**
 
 ## Revision History ##
-<table>
-<tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
-<tr><td>10/12/2016</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
-<tr><td>12/12/2016</td><td>1.1</td><td>Screenshots, Mock-Ups und Features hinzugefügt</td><td>MuM</td></tr>
-<tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
-<tr><td>25.04.2017</td><td>2.1</td><td>Function Point Calculation added</td><td>MuM</td></tr>
-</table>
+ 
+|Date|Version|Description|Author|
+|----|----|----|----|
+|10/12/2016|1.0|Dokument erstellt|MuM|
+|12/12/2016|1.1|Screenshots, Mock-Ups und Features hinzugefügt|MuM|
+|05/04/2017|2.0|Dateiformat zu .md geändert|MuM|
+|25.04.2017|2.1|Function Point Calculation added|MuM|
+ 
 
 ## Table of Contents ##
 1. Use-Case Trainingsplan bearbeiten
@@ -72,11 +73,12 @@ n/a
 1. Function points = **33,8**; Estimation = 9h   
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20bearbeiten.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20bearbeiten.PNG</a>  
 ![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20bearbeiten.PNG "FPs")  
-<table>
-<tr><td>Transaction Data / Functionality</td><td>DET</td><td>RET</td><td>FTR</td><td>Complexity</td><td>Count</td></tr>
-<tr><td>External Inputs</td><td>8</td><td>-</td><td>1</td><td>LOW</td><td>5</td></tr>
-<tr><td>External Outputs</td><td>7</td><td>-</td><td>1</td><td>LOW</td><td>4</td></tr>
-<tr><td>External Inqueries</td><td>0</td><td>-</td><td>0</td><td>LOW</td><td>0</td></tr>
-<tr><td>Internal Logical Files</td><td>5</td><td>1</td><td>-</td><td>LOW</td><td>3</td></tr>
-<tr><td>External Interface Files</td><td>0</td><td>0</td><td>-</td><td>LOW</td><td>0</td></tr>
-</table>
+ 
+|Transaction Data / Functionality|DET|RET|FTR|Complexity|Count|
+|----|----|----|----|----|----|
+|External Inputs|8|-|1|LOW|5|
+|External Outputs|7|-|1|LOW|4|
+|External Inqueries|0|-|0|LOW|0|
+|Internal Logical Files|5|1|-|LOW|3|
+|External Interface Files|0|0|-|LOW|0|
+ 
