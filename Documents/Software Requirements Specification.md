@@ -7,21 +7,20 @@
 **Version 2.2**
 
 ## Revision History ##
-<table>
-<tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
-<tr><td>20/10/2016</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
-<tr><td>25/10/2016</td><td>1.1</td><td>Formelle Änderung des Inhalts</td><td>MuM</td></tr>
-<tr><td>28/10/2016</td><td>1.2</td><td>UCD Details hinzugefügt</td><td>MuM</td></tr>
-<tr><td>31/10/2016</td><td>1.3</td><td>UCD löschen hinzugefügt</td><td>MuM</td></tr>
-<tr><td>14/11/2016</td><td>1.4</td><td>Links aktualisiert und UCD erstellen hinzugefügt</td><td>MuM</td></tr>
-<tr><td>21/11/2016</td><td>1.5</td><td>Link SAD Hinzugefügt</td><td>MuM</td></tr>
-<tr><td>07/12/2016</td><td>1.6</td><td>UCD Plan ansehen Hinzugefügt</td><td>MuM</td></tr>
-<tr><td>10/12/2016</td><td>1.7</td><td>UCD Plan bearbeiten Hinzugefügt</td><td>MuM</td></tr>
-<tr><td>12/12/2016</td><td>1.8</td><td>Fehlende Punkte ausgefüllt</td><td>MuM</td></tr>
-<tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
-<tr><td>20/04/2017</td><td>2.1</td><td>neue Usecases hinzugefügt</td><td>MuM</td></tr>
-<tr><td>25/04/2017</td><td>2.2</td><td>Links hinzugefügt</td><td>MuM</td></tr>
-</table>
+| Date       | Version | Description                                      | Author |
+|------------|---------|--------------------------------------------------|--------|
+| 20/10/2016 | 1.0     | Dokument erstellt                                | MuM    |
+| 25/10/2016 | 1.1     | Formelle Änderung des Inhalts                    | MuM    |
+| 28/10/2016 | 1.2     | UCD Details hinzugefügt                          | MuM    |
+| 28/10/2016 | 1.3     | UCD löschen hinzugefügt                          | MuM    |
+| 14/11/2016 | 1.4     | Links aktualisiert und UCD erstellen hinzugefügt | MuM    |
+| 21/11/2016 | 1.5     | Link SAD Hinzugefügt                             | MuM    |
+| 07/12/2016 | 1.6     | UCD Plan ansehen Hinzugefügt                     | MuM    |
+| 10/12/2016 | 1.7     | UCD Plan bearbeiten Hinzugefügt                  | MuM    |
+| 12/12/2016 | 1.8     | Fehlende Punkte ausgefüllt                       | MuM    |
+| 05/04/2017 | 2.0     | Dateiformat zu .md geändert                      | MuM    |
+| 20/04/2017 | 2.1     | neue Usecases hinzugefügt                        | MuM    |
+| 25/04/2017 | 2.2     | Links hinzugefügt                                | MuM    |
 
 ## Table of Contents ##
 1. Introduction
@@ -84,23 +83,24 @@ MuM = Max und Moritz
 n/a = not applicable  
 tbd = to be determined 
 4. **References**
-<table>
-<tr><td>Blog</td><td><a href="https://mumsfit.wordpress.com/">https://mumsfit.wordpress.com/</a></td></tr>
-<tr><td>GitHub</td><td><a href="https://github.com/MH0896/MuM-s-Fit">https://github.com/MH0896/MuM-s-Fit</a></td></tr>
-<tr><td>Use-Case Details ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%201_Details%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%201_Details%20ansehen.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan löschen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%202_Trainingsplan%20l%C3%B6schen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%202_Trainingsplan%20l%C3%B6schen.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan erstellen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203_Trainingsplan%20erstellen.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%204_Trainingsplan%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%204_Trainingsplan%20ansehen.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan bearbeiten</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205_Trainingsplan%20bearbeeiten.md</a></td></tr>
-<tr><td>Use-Case Einstellungen ändern</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206_Einstellungen%20%C3%A4ndern.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan exportieren</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207_Trainingsplan%20exportieren.md</a></td></tr>
-<tr><td>Use-Case Trainingsplan importieren</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208_Trainingsplan%20importieren.md</a></td></tr>
-<tr><td>Use-Case Analyse ansehen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209_Analyse%20ansehen.md</a></td></tr>
-<tr><td>Use-Case Training durchführen</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010_Training%20durchf%C3%BChren.md</a></td></tr>
-<tr><td>Software Architecture Document</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md</a></td></tr>
-<tr><td>Function Points</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Complexity%20Adjustment%20Table.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Complexity%20Adjustment%20Table.PNG</a></td></tr>
-<tr><td>Risikomanagement</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md</a></td></tr>
-</table>
+
+| File                               | Link                                                                                                           |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Blog                               | https://mumsfit.wordpress.com/                                                                                 |
+| GitHub                             | https://github.com/MH0896/MuM-s-Fit                                                                            |
+| Use-Case Details ansehen           | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%201_Details%20ansehen.md             |
+| Use-Case Trainingsplan löschen     | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%202Trainingsplan%20l%C3%B6schen.md   |
+| Use-Case Trainingsplan erstellen   | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%203Trainingsplan%20erstellen.md      |
+| Use-Case Trainingsplan ansehen     | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%204Trainingsplan%20ansehen.md        |
+| Use-Case Trainingsplan bearbeiten  | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%205Trainingsplan%20bearbeeiten.md    |
+| Use-Case Einstellungen ändern      | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%206Einstellungen%20%C3%A4ndern.md    |
+| Use-Case Trainingsplan exportieren | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%207Trainingsplan%20exportieren.md    |
+| Use-Case Trainingsplan importieren | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%208Trainingsplan%20importieren.md    |
+| Use-Case Analyse ansehen           | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%209Analyse%20ansehen.md              |
+| Use-Case Training durchführen      | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/MD-Files/Usecase%2010Training%20durchf%C3%BChren.md   |
+| Software Architecture Document     | https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md                |
+| Function Points                    | https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Complexity%20Adjustment%20Table.PNG |
+| Risikomanagement                   | https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md                                  |
 
 ### 2. Overall Description ###
 Es handelt sich um eine Smartphone App, mit welcher ein Trainingsplan erstellt werden kann und das Training dokumentiert werden kann.

@@ -7,10 +7,6 @@
 **Version 1.0**
 
 ## Revision History ##
-<table>
-<tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
-<tr><td>26/04/2017</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
-</table>
 
 |Date|Version|Description|Author|
 |---|---|---|---|
