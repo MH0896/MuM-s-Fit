@@ -7,16 +7,15 @@
 **Version 2.0**
 
 ## Revision History ##
-<table>
-<tr><td>Date</td><td>Version</td><td>Description</td><td>Author</td></tr>
-<tr><td>21/11/2016</td><td>1.0</td><td>Dokument erstellt</td><td>MuM</td></tr>
-<tr><td>24/11/2016</td><td>1.1</td><td>Klassendiagramm Aktualisiert</td><td>MuM</td></tr>
-<tr><td>28/11/2016</td><td>1.2</td><td>Informationen Hinzugefügt</td><td>MuM</td></tr>
-<tr><td>30/11/2016</td><td>1.3</td><td>Anordnungsfehler ausgebessert</td><td>MuM</td></tr>
-<tr><td>12/12/2016</td><td>1.4</td><td>Inhalte Aktualisiert</td><td>MuM</td></tr>
-<tr><td>14/12/2016</td><td>1.5</td><td>Deployment View Hinzugefügt</td><td>MuM</td></tr>
-<tr><td>05/04/2017</td><td>2.0</td><td>Dateiformat zu .md geändert</td><td>MuM</td></tr>
-</table>
+| Date       | Version | Description                   | Author |
+|------------|---------|-------------------------------|--------|
+| 21/11/2016 | 1.0     | Dokument erstellt             | MuM    |
+| 24/11/2016 | 1.1     | Klassendiagramm Aktualisiert  | MuM    |
+| 28/11/2016 | 1.2     | Informationen Hinzugefügt     | MuM    |
+| 30/11/2016 | 1.3     | Anordnungsfehler ausgebessert | MuM    |
+| 12/12/2016 | 1.4     | Inhalte Aktualisiert          | MuM    |
+| 14/12/2016 | 1.5     | Deployment View Hinzugefügt   | MuM    |
+| 05/04/2017 | 2.0     | Dateiformat zu .md geändert   | MuM    |
 
 ## Table of Contents ##
 1. Introduction
@@ -42,11 +41,9 @@ Dieses Dokument soll eine Übersicht über die Smartphone-App “MuM’s Fit” 
 MuM = Max und Moritz  
 n/a = not applicable  
 tbd = to be determined
-3. **References**
-<table>
-<tr><td>SRS</td><td><a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a></td></tr>
-<tr><td>Grafik MVP</td><td><a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a></td></tr>
-</table>
+3. **References**  
+|SRS|<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md">https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md</a>|
+|Grafik MVP|<a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a>|
 
 ### 2. Architectural Representation ###
 <a href="http://www.techyourchance.com/mvp-mvc-android-1/">http://www.techyourchance.com/mvp-mvc-android-1/</a><br>
