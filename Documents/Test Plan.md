@@ -88,6 +88,7 @@
 1. **Purpose**  
 2. **Scope**  
 3. **Intended Audience**  
+Mitglieder des Projektteams und Entwickler
 4. **Document Terminology and Acronyms**  
 5. **References**  
 6. **Document Structure**  
@@ -111,7 +112,16 @@
 	1. Data and Database Integrity Testing
 	2. Function Testing
 	3. Business Cycle Testing
-	4. User Interface Testing
+	4. User Interface Testing  
+
+|Technique Objective|Testing the webpages for correct behavior
+|
+|----|----|
+|Technique|Für jede Ansicht einen Test erstellen um die korrekte Darstellung und Navigation sicherzustellen|
+|Oracles|Tests sind erfolgreich, wenn jede Interaktion mit der GUI das gewünschte Ergebnis bringt|
+|Required Tools|Calabash|
+|Success Criteria|All tests pass successfully|
+|Special Considerations|/|  
 	5. Performance Profiling
 	6. Load Testing
 	7. Stress Testing
@@ -132,7 +142,7 @@
 
 ## 7. Deliverables ##
 1. **Test Evaluation Summaries**  
-2. **Reporting on Test Coverage**  
+2. **Reporting on Test Coverage**    
 3. **Perceived Quality Reports**  
 4. **Incident Logs and Change Requests**  
 5. **Smoke Test Suite and supporting Test Scripts**  
