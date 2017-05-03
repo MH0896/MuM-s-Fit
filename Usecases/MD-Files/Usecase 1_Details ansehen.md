@@ -7,7 +7,7 @@
 **Version 2.1**
 
 ## Revision History ##
-|Date|Version|>Description|Author|
+|Date|Version|Description|Author|
 |----|----|----|----|
 |20/10/2016|1.0|Dokument erstellt|MuM
 |01/11/2016|1.1|Mockup hinzugefügt|MuM|
@@ -71,6 +71,7 @@ n/a
 1. Function points = **25,35**; Estimation = 6h30m   
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG</a>  
 ![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/Details%20ansehen.PNG "FPs")  
+
 |Transaction Data / Functionality|DET|RET|FTR|Complexity|Count|
 |----|----|----|----|----|----|
 |External Inputs|2|-|1|LOW|2|
