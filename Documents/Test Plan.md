@@ -121,7 +121,6 @@ Mitglieder des Projektteams und Entwickler
 |Required Tools|Calabash|
 |Success Criteria|All tests pass successfully|
 |Special Considerations|/|  
-
 	5. Performance Profiling
 	6. Load Testing
 	7. Stress Testing
