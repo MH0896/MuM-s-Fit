@@ -8,6 +8,7 @@
 
 ## Revision History ##
 |Date|Version|Description|Author|
+|----|----|----|----|
 |31/10/2016|1.0|Dokument erstellt|MuM|
 |01/11/2016|1.1|Mockup hinzugefügt|MuM|
 |10/11/2016|1.2|UCD korrigiert (korrektes UML format)|MuM|
@@ -74,6 +75,7 @@ n/a
 ![FPs](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Function%20Points/TP%20l%C3%B6schen.PNG "FPs")  
 
 |Transaction Data / Functionality|DET|RET|FTR|Complexity|Count|
+|----|----|----|----|----|----|
 |External Inputs|3|-|2|LOW|3|
 |External Outputs|0|-|0|LOW|0|
 |External Inqueries|0|-|0|LOW|0|
