@@ -12,6 +12,7 @@
 |---|---|---|---|
 |26/04/2017|1.0|Dokument erstellt|MuM|
 |18/05/2017|1.1|Dokument mit allen vorhandenen Informationen gefüllt|MuM|
+|18/05/2017|1.2|Formatierungsfehler gefixt|MuM|
 
 
 ## Table of Contents ##
@@ -133,8 +134,8 @@ n/a
 1. **Initial Test-Idea Catalogs and other reference sources**  
 n/a
 2. **Testing Techniques and Types**  
-	1. Data and Database Integrity Testing
-tbd
+	1. Data and Database Integrity Testing  
+tbd  
 	2. Function Testing
 
 	| | |
