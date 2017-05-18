@@ -137,28 +137,28 @@ n/a
 tbd
 	2. Function Testing
 
-| | |
-|----|----|
-|Technique Objective|Testen des Ablaufs der App, inklusive Dateneingabe und -verarbeitung|
-|Technique|Es muss sichergestellt werden, dass bei nutzen korrekter Daten das entsprechende Ergebnis stattfindet und bei nutzen falscher Daten eine entsprechende Fehlermeldung erscheint|
-|Oracles|Tests sind erfolgreich, wenn jede Interaktion das gewünschte Ergebnis bringt|
-|Required Tools|JUnit|
-|Success Criteria|Alle Tests laufen erfolgreich durch|
-|Special Considerations|n/a|  
+	| | |
+	|----|----|
+	|Technique Objective|Testen des Ablaufs der App, inklusive Dateneingabe und -verarbeitung|
+	|Technique|Es muss sichergestellt werden, dass bei nutzen korrekter Daten das entsprechende Ergebnis stattfindet und bei nutzen falscher Daten eine entsprechende Fehlermeldung erscheint|
+	|Oracles|Tests sind erfolgreich, wenn jede Interaktion das gewünschte Ergebnis bringt|
+	|Required Tools|JUnit|
+	|Success Criteria|Alle Tests laufen erfolgreich durch|
+	|Special Considerations|n/a|  
 
   
-		1. Business Cycle Testing  
+	3. Business Cycle Testing  
 	n/a  
 	4. User Interface Testing  
 
-| | |
-|----|----|
-|Technique Objective|Testen aller Ansichten auf korrektes Verhalten|
-|Technique|Für jede Ansicht einen Test erstellen um die korrekte Darstellung und Navigation sicherzustellen|
-|Oracles|Tests sind erfolgreich, wenn jede Interaktion mit der GUI das gewünschte Ergebnis bringt|
-|Required Tools|Calabash|
-|Success Criteria|Alle Tests laufen erfolgreich durch|
-|Special Considerations|n/a|  
+	| | |
+	|----|----|
+	|Technique Objective|Testen aller Ansichten auf korrektes Verhalten|
+	|Technique|Für jede Ansicht einen Test erstellen um die korrekte Darstellung und Navigation sicherzustellen|
+	|Oracles|Tests sind erfolgreich, wenn jede Interaktion mit der GUI das gewünschte Ergebnis bringt|
+	|Required Tools|Calabash|
+	|Success Criteria|Alle Tests laufen erfolgreich durch|
+	|Special Considerations|n/a|  
 
 	5. Performance Profiling  
 	n/a  
