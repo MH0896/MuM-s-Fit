@@ -145,11 +145,9 @@ tbd
 |Required Tools|JUnit|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
-
-		3. Business Cycle Testing  
-n/a
-		4. User Interface Testing  
-
+	3. Business Cycle Testing  
+n/a  
+	4. User Interface Testing  
 | | |
 |----|----|
 |Technique Objective|Testen aller Ansichten auf korrektes Verhalten|
@@ -159,38 +157,38 @@ n/a
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
 
-		5. Performance Profiling
-n/a
-		6. Load Testing
-n/a
-		7. Stress Testing
-n/a
-		8. Volume Testing
-n/a
-		9. Security and Access Control Testing
-n/a
-		10. Failover and Recovery Testing
-n/a
-		11. Configuration Testing
-n/a
-		12. Installation Testing
-n/a
+		5. Performance Profiling  
+n/a  
+		6. Load Testing  
+n/a  
+		7. Stress Testing  
+n/a  
+		8. Volume Testing  
+n/a  
+		9. Security and Access Control Testing  
+n/a  
+		10. Failover and Recovery Testing  
+n/a  
+		11. Configuration Testing  
+n/a  
+		12. Installation Testing  
+n/a  
 
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
-	1. Test Plan Entry Criteria
-n/a
-	2. Test Plan Exit Criteria
-n/a
-	3. Suspension and resumption criteria
+	1. Test Plan Entry Criteria  
+n/a  
+	2. Test Plan Exit Criteria  
+n/a  
+	3. Suspension and resumption criteria  
 n/a
 2. **Test Cycles**  
-	1. Test Cycle Entry Criteria
-n/a
-	2. Test Cycle Exit Criteria
-n/a
-	3. Test Cycle abnormal termination
-n/a
+	1. Test Cycle Entry Criteria  
+n/a  
+	2. Test Cycle Exit Criteria  
+n/a  
+	3. Test Cycle abnormal termination  
+n/a  
 
 ## 7. Deliverables ##
 1. **Test Evaluation Summaries**  
@@ -204,14 +202,14 @@ n/a
 5. **Smoke Test Suite and supporting Test Scripts**  
 n/a
 6. **Additional work products**  
-	1. Detailed Test Results
-n/a
-	2. Additional automated functional Test Scripts
-n/a
-	3. Test Guidelines
-n/a
-	4. Traceability Matrices
-n/a
+	1. Detailed Test Results  
+n/a  
+	2. Additional automated functional Test Scripts  
+n/a  
+	3. Test Guidelines  
+n/a  
+	4. Traceability Matrices  
+n/a  
 
 ## 8. Testing Workflow ##
 Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manuell wenn als nötig erachtet getsartet.
