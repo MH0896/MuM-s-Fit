@@ -146,9 +146,9 @@ tbd
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
 
-		3. Business Cycle Testing  
+	3. Business Cycle Testing  
 n/a  
-		4. User Interface Testing  
+	4. User Interface Testing  
 
 | | |
 |----|----|
@@ -159,21 +159,21 @@ n/a
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
 
-			5. Performance Profiling  
+	5. Performance Profiling  
 n/a  
-			6. Load Testing  
+	6. Load Testing  
 n/a  
-			7. Stress Testing  
+	7. Stress Testing  
 n/a  
-			8. Volume Testing  
+	8. Volume Testing  
 n/a  
-			9. Security and Access Control Testing  
+	9. Security and Access Control Testing  
 n/a  
-			10. Failover and Recovery Testing  
+	10. Failover and Recovery Testing  
 n/a  
-			11. Configuration Testing  
+	11. Configuration Testing  
 n/a  
-			12. Installation Testing  
+	12. Installation Testing  
 n/a  
 
 ## 6. Entry and Exit Criteria ##
