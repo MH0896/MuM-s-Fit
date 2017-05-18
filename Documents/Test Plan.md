@@ -140,15 +140,13 @@ tbd
 | | |
 |----|----|
 |Technique Objective|Testen des Ablaufs der App, inklusive Dateneingabe und -verarbeitung|
-|Technique|Es muss sichergestellt werden, dass:  
-<br>- bei nutzen korrekter Daten das entsprechende Ergebnis stattfindet  
-<br>- bei nutzen falscher Daten eine entsprechende Fehlermeldung erscheint|
+|Technique|Es muss sichergestellt werden, dass bei nutzen korrekter Daten das entsprechende Ergebnis stattfindet und bei nutzen falscher Daten eine entsprechende Fehlermeldung erscheint|
 |Oracles|Tests sind erfolgreich, wenn jede Interaktion das gewünschte Ergebnis bringt|
 |Required Tools|JUnit|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
-|Special Considerations|n/a|   
-	3. Business Cycle Testing
-n/a
+|Special Considerations|n/a|
+	3. Business Cycle Testing  
+	n/a
 	4. User Interface Testing  
 | | |
 |----|----|
