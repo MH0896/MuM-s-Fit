@@ -144,7 +144,7 @@ tbd
 |Oracles|Tests sind erfolgreich, wenn jede Interaktion das gewünschte Ergebnis bringt|
 |Required Tools|JUnit|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
-|Special Considerations|n/a|
+|Special Considerations|n/a|  
 		3. Business Cycle Testing  
 	n/a
 		4. User Interface Testing  
@@ -155,7 +155,7 @@ tbd
 |Oracles|Tests sind erfolgreich, wenn jede Interaktion mit der GUI das gewünschte Ergebnis bringt|
 |Required Tools|Calabash|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
-|Special Considerations|n/a|   
+|Special Considerations|n/a|  
 		5. Performance Profiling
 n/a
 		6. Load Testing
