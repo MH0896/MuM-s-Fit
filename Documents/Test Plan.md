@@ -146,9 +146,9 @@ tbd
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
 
-	3. Business Cycle Testing  
+		3. Business Cycle Testing  
 n/a
-	4. User Interface Testing  
+		4. User Interface Testing  
 
 | | |
 |----|----|
