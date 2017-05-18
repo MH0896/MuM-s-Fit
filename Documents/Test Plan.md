@@ -145,9 +145,11 @@ tbd
 |Required Tools|JUnit|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
+
 		3. Business Cycle Testing  
 n/a  
 		4. User Interface Testing  
+
 | | |
 |----|----|
 |Technique Objective|Testen aller Ansichten auf korrektes Verhalten|
@@ -156,6 +158,7 @@ n/a
 |Required Tools|Calabash|
 |Success Criteria|Alle Tests laufen erfolgreich durch|
 |Special Considerations|n/a|  
+
 			5. Performance Profiling  
 n/a  
 			6. Load Testing  
