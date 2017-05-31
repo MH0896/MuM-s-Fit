@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Master Test Plan**
 
-**Version 1.0**
+**Version 1.3**
 
 ## Revision History ##
 
@@ -13,6 +13,7 @@
 |26/04/2017|1.0|Dokument erstellt|MuM|
 |18/05/2017|1.1|Dokument mit allen vorhandenen Informationen gefüllt|MuM|
 |18/05/2017|1.2|Formatierungsfehler gefixt|MuM|
+|31/05/2017|1.3|Weiteren Inhalt hinzugefügt|MuM|
 
 
 ## Table of Contents ##
@@ -99,14 +100,15 @@ Dieses Dokument geht auf die folgenden typen und level von tests ein:
 3. **Intended Audience**  
 Mitglieder des Projektteams und Entwickler
 4. **Document Terminology and Acronyms**  
-n/a
+MuM = Max und Moritz  
+n/a = not applicable  
+tbd = to be determined
 5. **References**  
-
-|Objekt|Link|
-|---|---|
-|SAD|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md|
-|SRS|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md|
-|Codacy|https://www.codacy.com/app/MH0896/MuMsFit/dashboard|
+	|Objekt|Link|
+	|---|---|
+	|SAD|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md|
+	|SRS|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md|
+	|Codacy|https://www.codacy.com/app/MH0896/MuMsFit/dashboard|
 6. **Document Structure**  
 n/a
 
@@ -114,7 +116,7 @@ n/a
 1. **Background**  
 Tests geben beiden Teammitgliedern ein Feedback über ihre arbeit. Es wird sichergestellt, dass die Usecases entsprechend ihrer Festlegung implementiert sind und dass änderungen keine negativen Auswirkungen auf die App haben.
 2. **Evaluation Mission**  
-Hauptziel ist es, den Quellcode der Applikation und das Desig unserer App zu optimieren. Daher wird versucht, so viele Fehler als möglich zu finden und zu beheben, mögliche Engpässe auszumachen usw.
+Hauptziel ist es, den Quellcode der Applikation und das Desig unserer App zu optimieren. Daher wird versucht, so viele Fehler als möglich zu finden und zu beheben, mögliche Engpässe auszumachen, usw.
 3. **Test Motivators**  
 Tests reduzieren Fehler in sowohl bereits existierenden Features als auch in neuen Features. Außerdem sind Tests eine gute möglichkeit der Dokumentation.
 
@@ -125,8 +127,10 @@ Tests reduzieren Fehler in sowohl bereits existierenden Features als auch in neu
 1. **Outline of Test Inclusions**  
 	- Unit-tests
 	- Funktions-tests
+	- Installations-tests
 2. **Outline of other candidates for potential inclusion**  
 	- Datenbank-tests
+	- Stresstests
 3. **Outline of Test Exclusions**  
 n/a
 
@@ -181,11 +185,11 @@ tbd
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
 	1. Test Plan Entry Criteria  
-n/a  
+Bei jedem Deploy werden die meisten Tests automatisch ausgeführt. Der Installationstest gehört nicht dazu.
 	2. Test Plan Exit Criteria  
-n/a  
+Der Testplan ist beendet, sobald alle Tests erfolgreich durchgeführt wurden. Ausgenommen davon ist ggf. der Installationstest.  
 	3. Suspension and resumption criteria  
-n/a
+Der Testplan kann nicht abgebrochen werden!  
 2. **Test Cycles**  
 	1. Test Cycle Entry Criteria  
 n/a  
@@ -196,9 +200,11 @@ n/a
 
 ## 7. Deliverables ##
 1. **Test Evaluation Summaries**  
-tbd
+Eine Zusammenfassung unserer Tests ist immer aktuell in Travis:  
+https://travis-ci.org/MH0896/MuMsFit/  
+Diese wird automatisch mit jedem Push auf den Master-branch erstellt.
 2. **Reporting on Test Coverage**  
-	- Codacy: https://www.codacy.com/app/MH0896/MuMsFit/dashboard
+At this moment, our test coverage is just seen in our IDE and a html-file. We are working on a solution.
 3. **Perceived Quality Reports**  
 	- Codacy: https://www.codacy.com/app/MH0896/MuMsFit/dashboard
 4. **Incident Logs and Change Requests**  
@@ -216,17 +222,26 @@ n/a
 n/a  
 
 ## 8. Testing Workflow ##
-Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manuell wenn als nötig erachtet getsartet.
+Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manuell, wenn als nötig erachtet, getsartet.
 
 ## 9. Environmental Needs ##
 1. **Base System Hardware**  
-tbd
+Android Smartphone mit minimum-SKD: 21. Das entspricht Android Version 5.0.  
 2. **Base Software Elements in the Test Environment**  
-tbd
+|Software Element|Version|Typ / andere Notizen|
+|----|----|----|
+|Windows|10|Entwicklungsumgebung und Programmausführung|
+|Google Chrome|58.X.X|Einsicht der Testergebnisse|
+|JDK|8 Update 111|Programmiersprache|
 3. **Productivity and Support Tools**  
-tbd
+|Kategorie|Name|Version|
+|----|----|----|
+|Metrics|Codacy|n/a|
+|Test|JUnit|4.12|
+|IDE|Android Studio|2.3.2|
+|Projektmanagement|JIRA|7.0.0|
 4. **Test Environment Configurations**  
-tbd
+n/a
 
 ## 10. Responsibilities, Staffing and Training Needs ##
 1. **People and Roles**  
@@ -235,7 +250,10 @@ Zu finden in unserem Blog-Eintrag: <a href="https://mumsfit.wordpress.com/2016/1
 n/a
 
 ## 11. Iteration Milestones ##
-n/a
+|Geplanter Meilenstein|Startdatum|Enddatum|
+|----|----|----|
+|~30% Codecoverage|Projectstart|31.05.2017|
+|50%+ Codecoverage|01.06.2017|21.06.2017|
 ## 12. Risks, Dependencies, Assumptions and Constraints ##
 Eine Übersicht über unser gesamtes Risikomanagement findet sich <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Riskiomanagement.md">dieser Datei</a>
 
