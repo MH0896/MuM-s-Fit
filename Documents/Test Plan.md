@@ -104,6 +104,7 @@ MuM = Max und Moritz
 n/a = not applicable  
 tbd = to be determined
 5. **References**  
+
 |Objekt|Link|
 |---|---|
 |SAD|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md|
@@ -228,12 +229,14 @@ Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manue
 1. **Base System Hardware**  
 Android Smartphone mit minimum-SKD: 21. Das entspricht Android Version 5.0.  
 2. **Base Software Elements in the Test Environment**  
+
 |Software Element|Version|Typ / andere Notizen|
 |----|----|----|
 |Windows|10|Entwicklungsumgebung und Programmausführung|
 |Google Chrome|58.X.X|Einsicht der Testergebnisse|
 |JDK|8 Update 111|Programmiersprache|
 3. **Productivity and Support Tools**  
+
 |Kategorie|Name|Version|
 |----|----|----|
 |Metrics|Codacy|n/a|
@@ -250,6 +253,7 @@ Zu finden in unserem Blog-Eintrag: <a href="https://mumsfit.wordpress.com/2016/1
 n/a
 
 ## 11. Iteration Milestones ##
+
 |Geplanter Meilenstein|Startdatum|Enddatum|
 |----|----|----|
 |~30% Codecoverage|Projectstart|31.05.2017|
