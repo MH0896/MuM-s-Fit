@@ -104,11 +104,11 @@ MuM = Max und Moritz
 n/a = not applicable  
 tbd = to be determined
 5. **References**  
-	|Objekt|Link|
-	|---|---|
-	|SAD|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md|
-	|SRS|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md|
-	|Codacy|https://www.codacy.com/app/MH0896/MuMsFit/dashboard|
+|Objekt|Link|
+|---|---|
+|SAD|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Architecture%20Document.md|
+|SRS|https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md|
+|Codacy|https://www.codacy.com/app/MH0896/MuMsFit/dashboard|
 6. **Document Structure**  
 n/a
 
