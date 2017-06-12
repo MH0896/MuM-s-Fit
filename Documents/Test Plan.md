@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Master Test Plan**
 
-**Version 1.3**
+**Version 1.4**
 
 ## Revision History ##
 
@@ -14,6 +14,7 @@
 |18/05/2017|1.1|Dokument mit allen vorhandenen Informationen gefüllt|MuM|
 |18/05/2017|1.2|Formatierungsfehler gefixt|MuM|
 |31/05/2017|1.3|Weiteren Inhalt hinzugefügt|MuM|
+|12/06/2017|1.4|Monkey-Stresstest hinzugefügt|MuM|
 
 
 ## Table of Contents ##
@@ -36,27 +37,16 @@
 5. Test Approach
 	1. Initial Test-Idea Catalogs and other reference sources
 	2. Testing Techniques and Types
-		1. Data and Database Integrity Testing
-		2. Function Testing
-		3. Business Cycle Testing
-		4. User Interface Testing
-		5. Performance Profiling
-		6. Load Testing
-		7. Stress Testing
-		8. Volume Testing
-		9. Security and Access Control Testing
-		10. Failover and Recovery Testing
-		11. Configuration Testing
-		12. Installation Testing
+		1. Function Testing
+		2. User Interface Testing
+		3. Stress Testing
+		4. Installation Testing
 6. Entry and Exit Criteria
 	1. Test Plan
 		1. Test Plan Entry Criteria
 		2. Test Plan Exit Criteria
 		3. Suspension and resumption criteria
 	2. Test Cycles
-		1. Test Cycle Entry Criteria
-		2. Test Cycle Exit Criteria
-		3. Test Cycle abnormal termination
 7. Deliverables
 	1. Test Evaluation Summaries 
 	2. Reporting on Test Coverage
@@ -64,10 +54,6 @@
 	4. Incident Logs and Change Requests
 	5. Smoke Test Suite and supporting Test Scripts
 	6. Additional work products
-		1. Detailed Test Results
-		2. Additional automated functional Test Scripts
-		3. Test Guidelines
-		4. Traceability Matrices
 8. Testing Workflow
 9. Environmental Needs
 	1. Base System Hardware
@@ -115,7 +101,7 @@ n/a
 
 ## 2. Evaluation Mission and Test Motivation ##
 1. **Background**  
-Tests geben beiden Teammitgliedern ein Feedback über ihre arbeit. Es wird sichergestellt, dass die Usecases entsprechend ihrer Festlegung implementiert sind und dass änderungen keine negativen Auswirkungen auf die App haben.
+Tests geben beiden Teammitgliedern ein Feedback über ihre Arbeit. Es wird sichergestellt, dass die Usecases entsprechend ihrer Festlegung implementiert sind und dass Änderungen keine negativen Auswirkungen auf die App haben.
 2. **Evaluation Mission**  
 Hauptziel ist es, den Quellcode der Applikation und das Desig unserer App zu optimieren. Daher wird versucht, so viele Fehler als möglich zu finden und zu beheben, mögliche Engpässe auszumachen, usw.
 3. **Test Motivators**  
@@ -133,15 +119,13 @@ Tests reduzieren Fehler in sowohl bereits existierenden Features als auch in neu
 	- Datenbank-tests
 	- Stresstests
 3. **Outline of Test Exclusions**  
-n/a
+	- Datenbank an sich
 
 ## 5. Test Approach ##
 1. **Initial Test-Idea Catalogs and other reference sources**  
 n/a
 2. **Testing Techniques and Types**  
-	1. Data and Database Integrity Testing  
-tbd  
-	2. Function Testing
+	1. Function Testing
 
 	| | |
 	|----|----|
@@ -152,10 +136,7 @@ tbd
 	|Success Criteria|Alle Tests laufen erfolgreich durch|
 	|Special Considerations|n/a|  
 
-  
-	3. Business Cycle Testing  
-	n/a  
-	4. User Interface Testing  
+	2. User Interface Testing  
 
 	| | |
 	|----|----|
@@ -166,37 +147,29 @@ tbd
 	|Success Criteria|Alle Tests laufen erfolgreich durch|
 	|Special Considerations|n/a|  
 
-	5. Performance Profiling  
-	n/a  
-	6. Load Testing  
-	n/a  
-	7. Stress Testing  
-	n/a  
-	8. Volume Testing  
-	n/a  
-	9. Security and Access Control Testing  
-	n/a  
-	10. Failover and Recovery Testing  
-	n/a  
-	11. Configuration Testing  
-	n/a  
-	12. Installation Testing  
-	n/a  
+	3. Stress Testing  
+	
+	| | |
+	|----|----|
+	|Technique Objective|Stresstest der Applikation|
+	|Technique|Stresstest|
+	|Oracles|n/a|
+	|Required Tools|Monkey, Android Device or Emulator|
+	|Success Criteria|Die Applikation stürzt nicht ab und friert nicht ein|
+	|Special Considerations|n/a|  
+
+	4. Installation Testing  
+	Installationstest-Dokument: https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Installationstest%20Dokumentation.pdf
 
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
 	1. Test Plan Entry Criteria  
-Bei jedem Deploy werden die meisten Tests automatisch ausgeführt. Der Installationstest gehört nicht dazu.
+Bei jedem Deploy werden FUnktionstests automatisch ausgeführt. Stresstests oder Installations-tests werden manuell durchgeführt.
 	2. Test Plan Exit Criteria  
-Der Testplan ist beendet, sobald alle Tests erfolgreich durchgeführt wurden. Ausgenommen davon ist ggf. der Installationstest.  
+Der Testplan ist beendet, sobald alle Tests erfolgreich durchgeführt wurden. Ausgenommen davon sind ggf. die manuellen Tests, je nach Umfang. 
 	3. Suspension and resumption criteria  
 Der Testplan kann nicht abgebrochen werden!  
 2. **Test Cycles**  
-	1. Test Cycle Entry Criteria  
-n/a  
-	2. Test Cycle Exit Criteria  
-n/a  
-	3. Test Cycle abnormal termination  
 n/a  
 
 ## 7. Deliverables ##
@@ -205,7 +178,7 @@ Eine Zusammenfassung unserer Tests ist immer aktuell in Travis:
 https://travis-ci.org/MH0896/MuMsFit/  
 Diese wird automatisch mit jedem Push auf den Master-branch erstellt.
 2. **Reporting on Test Coverage**  
-At this moment, our test coverage is just seen in our IDE and a html-file. We are working on a solution.
+Unsere Testcoverage ist in unserem Git-Hub badge zu sehen, oder in folgendem Dokument: https://github.com/MH0896/MuMsFit/blob/master/Test-Coverage/index.html
 3. **Perceived Quality Reports**  
 	- Codacy: https://www.codacy.com/app/MH0896/MuMsFit/dashboard
 4. **Incident Logs and Change Requests**  
@@ -213,17 +186,10 @@ n/a
 5. **Smoke Test Suite and supporting Test Scripts**  
 n/a
 6. **Additional work products**  
-	1. Detailed Test Results  
-n/a  
-	2. Additional automated functional Test Scripts  
-n/a  
-	3. Test Guidelines  
-n/a  
-	4. Traceability Matrices  
 n/a  
 
 ## 8. Testing Workflow ##
-Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manuell, wenn als nötig erachtet, getsartet.
+Unit Tests starten automatisch. Funktionstest oder end-nutzer-tests werden manuell, wenn als nötig erachtet, gestartet, ebenso wie Stresstests.
 
 ## 9. Environmental Needs ##
 1. **Base System Hardware**  
@@ -235,6 +201,7 @@ Android Smartphone mit minimum-SKD: 21. Das entspricht Android Version 5.0.
 |Windows|10|Entwicklungsumgebung und Programmausführung|
 |Google Chrome|58.X.X|Einsicht der Testergebnisse|
 |JDK|8 Update 111|Programmiersprache|
+
 3. **Productivity and Support Tools**  
 
 |Kategorie|Name|Version|
@@ -243,6 +210,7 @@ Android Smartphone mit minimum-SKD: 21. Das entspricht Android Version 5.0.
 |Test|JUnit|4.12|
 |IDE|Android Studio|2.3.2|
 |Projektmanagement|JIRA|7.0.0|
+
 4. **Test Environment Configurations**  
 n/a
 
