@@ -12,6 +12,7 @@
 |----|----|----|----|
 |14/04/2017|1.0|Dokument erstellt|MuM|
 |25.04.2017|1.1|Function Point Calculation added|MuM|
+|14.06.2017|1.2|Screenshots hinzugefügt|MuM|
  
 
 ## Table of Contents ##
@@ -45,8 +46,11 @@ n/a
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Einstellungen%20%C3%A4ndern.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Einstellungen%20%C3%A4ndern.png</a>  
 ![Mock-Ups](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup-%20Einstellungen%20%C3%A4ndern.png "Mock-Ups")
 4. **Screenshots**  
-<a href="TODO">TODO</a>  
-![Screenshots](TODO "Screenshots")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_1-2.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_1-2.png</a>  
+![Screenshots](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_1-2.png "Screenshots")
+	
+	<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_3-4.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_3-4.png</a>  
+	![Screenshots](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Einstellungen_3-4.png "Screenshots")
 
 ### 3. Special Requirements ###
 1. **Functionality on Android**  

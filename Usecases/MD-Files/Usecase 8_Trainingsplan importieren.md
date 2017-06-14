@@ -13,6 +13,7 @@
 |14/04/2017|1.0|Dokument erstellt|MuM|
 |18/04/2017|1.1|Mock-ups und UCD hinzugefügt|MuM|
 |25.04.2017|1.2|Function Point Calculation added|MuM|
+|14.06.2017|1.3|Screenshots hinzugefügt|MuM|
  
 
 ## Table of Contents ##
@@ -46,8 +47,8 @@ n/a
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20Importieren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20Importieren.png</a>  
 ![Mock-Ups](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/UCDs/Use%20Case-%20Trainingsplan%20Importieren.png "Mock-Ups")
 4. **Screenshots**  
-<a href="TODO">TODO</a>  
-![Screenshots](TODO "Screenshots")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Importieren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Importieren.png</a>  
+![Screenshots](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Importieren.png "Screenshots")
 
 ### 3. Special Requirements ###
 1. **Functionality on Android**  

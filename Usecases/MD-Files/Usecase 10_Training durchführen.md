@@ -12,6 +12,7 @@
 |----|----|----|----|
 |14/04/2017|1.0|Dokument erstellt|MuM|
 |18/05/2017|1.1|Mock-ups und UCD hinzugefügt|MuM|
+|14.06.2017|1.2|Screenshots hinzugefügt|MuM|
  
 
 ## Table of Contents ##
@@ -45,8 +46,8 @@ n/a
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup:%20Trainingsplan%20durchf%C3%BChren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup:%20Trainingsplan%20durchf%C3%BChren.png</a>  
 ![Mock-Ups](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Mock-ups/Mockup:%20Trainingsplan%20durchf%C3%BChren.png "Mock-Ups")
 4. **Screenshots**  
-<a href="TODO">TODO</a>  
-![Screenshots](TODO "Screenshots")
+<a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Durchf%C3%BChren.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Durchf%C3%BChren.png</a>  
+![Screenshots](https://github.com/MH0896/MuM-s-Fit/blob/master/Usecases/Screenshots/UC_Durchf%C3%BChren.png "Screenshots")
 
 ### 3. Special Requirements ###
 1. **Functionality on Android**  
