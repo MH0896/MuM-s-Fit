@@ -175,7 +175,7 @@ Diese Funktion ist ähnlich wie bei den meisten auf dem Markt verfügbaren Apps 
 	2. Hardware Requirements  
 Es wird nichts außer einem funktionierenden Smartphone benötigt.
 	3. Software Requirements  
-Auf dem Smartphone sollte eine möglichst aktuelle Version von Android installiert sein, das Minimum ist hierbei Android 4.0.
+Auf dem Smartphone sollte eine möglichst aktuelle Version von Android installiert sein, das Minimum ist hierbei Android 5.0.
 3. **Reliability**
 	1. Availability  
 Die App arbeitet mit einer embedded Datenbank und benötigt daher keine Internetverbindung o.ä. Dadurch muss die App rund um die Uhr verfügbar sein, solange das verwendete Gerät (in den meisten Fällen ein normales Smartphone) funktionsfähig ist.

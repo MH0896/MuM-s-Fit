@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Software Architecture Document**
 
-**Version 2.0**
+**Version 2.1**
 
 ## Revision History ##
 | Date       | Version | Description                   | Author |
@@ -16,6 +16,7 @@
 | 12/12/2016 | 1.4     | Inhalte Aktualisiert          | MuM    |
 | 14/12/2016 | 1.5     | Deployment View Hinzugefügt   | MuM    |
 | 05/04/2017 | 2.0     | Dateiformat zu .md geändert   | MuM    |
+| 14/06/2017 | 2.1     | Letzte Informationen hinzugefügt | MuM    |
 
 ## Table of Contents ##
 1. Introduction
@@ -44,7 +45,7 @@ tbd = to be determined
 3. **References**  
 
 | File       | Link                                                                                                 |
-|------------|------------------------------------------------------------------------------------------------------|
+|------------|------------|
 | SRS        | https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Software%20Requirements%20Specification.md |
 | Grafik MVP | http://www.techyourchance.com/mvp-mvc-android-1/                                                     |
 
@@ -66,21 +67,21 @@ Overall-Use-Case-Diagram:<br>
 ![MVP Architecture](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/MVP-Architecture.png "MVP Architecture")
 
 ### 6. Process View ###
-tbd
+n/a
 
 ### 7. Deployment View ###
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png">https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png</a><br>
 ![Deployment View](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/DeploymentView.png "Deployment View")
 
 ### 8. Implementation View ###
-tbd
+n/a
 
 ### 9. Data View ###
 <a href="https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG">https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG</a><br>
 ![Data View](https://github.com/MH0896/MuM-s-Fit/blob/master/Architecture/db-schema.PNG "Data View")
 
 ### 10. Size and Performance ###
-tbd
+Die Applikation wird so klein wie möglich gehalten. Die Datenbank liegt auf dem Gerät, was die Performance verbessert. Je mehr Informationen gespeichert werden, desto größer wird der von der Applikation benötiger Speicher.
 
 ### 11. Quality ###
-tbd
+Für den Inhalt, Beispielsweise die Sinnhaftigkeit der Trainingspläne, ist der Endnutzer verantwortlich. Die Funktionsfähigkeit der Applikation wurde durch regelmäßige Tests und Anpassungen sichergestellt.

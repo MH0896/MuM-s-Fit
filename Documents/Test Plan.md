@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Master Test Plan**
 
-**Version 1.4**
+**Version 1.5**
 
 ## Revision History ##
 
@@ -15,6 +15,7 @@
 |18/05/2017|1.2|Formatierungsfehler gefixt|MuM|
 |31/05/2017|1.3|Weiteren Inhalt hinzugefügt|MuM|
 |12/06/2017|1.4|Monkey-Stresstest hinzugefügt|MuM|
+|14/06/2017|1.5|Installationstest hinzugefügt|MuM|
 
 
 ## Table of Contents ##
@@ -159,7 +160,19 @@ n/a
 	|Special Considerations|n/a|  
 
 	4. Installation Testing  
+	
+	| | |
+	|----|----|
+	|Technique Objective|Testen, ob die App korrekt installiert werden kann|
+	|Technique|Es wird die Apk zur verfügung gestellt mitsamt einer Anleitung zur Installation. Anschießend muss ein Dokument ausgefüllt werden|
+	|Oracles|Tests sind erfolgreich, wenn die Installation nicht fehlschlägt und die App keine Fehler aufweist|
+	|Required Tools|Android Smartphone|
+	|Success Criteria|Die App wird erfolgreich installiert und es wird eine Datenbank angelegt (man kann Trainingspläne erstellen, bearbeiten, ...)|
+	|Special Considerations|n/a|  
+
 	Installationstest-Dokument: https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Installationstest%20Dokumentation.pdf
+
+	Installationstest ausgefüllt von "SmartEvent": https://github.com/MH0896/MuM-s-Fit/blob/master/Documents/Installationstest%20Dokumentation_SmartEvent-Fabian.pdf
 
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
