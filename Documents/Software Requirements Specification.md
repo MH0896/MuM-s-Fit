@@ -178,22 +178,22 @@ Es wird nichts außer einem funktionierenden Smartphone benötigt.
 Auf dem Smartphone sollte eine möglichst aktuelle Version von Android installiert sein, das Minimum ist hierbei Android 5.0.
 3. **Reliability**
 	1. Availability  
-Die App arbeitet mit einer embedded Datenbank und benötigt daher keine Internetverbindung o.ä. Dadurch muss die App rund um die Uhr verfügbar sein, solange das verwendete Gerät (in den meisten Fällen ein normales Smartphone) funktionsfähig ist.
-	2. Mean Time Between Failures (MTBF)
+Die App arbeitet mit einer embedded Datenbank und benötigt daher keine Internetverbindung o.ä. Dadurch muss die App rund um die Uhr verfügbar sein, solange das verwendete Gerät funktionsfähig ist.
+	2. Mean Time Between Failures (MTBF)  
 In Bezug auf Punkt 3.3.5. ist die MTBF die Zeit zwischen den Installationen der App (beispielsweise im Falle einer Neuinstallation).
 	3. Mean Time To Repair (MTTR)  
 Eine Reparatur ist nach dem Absturz der App nicht notwendig. Der neu angelegte Plan wird trotz Absturz der App gespeichert und steht vollständig zur Verfügung. Es muss also lediglich die App neu gestartet werden.
 	4. Accuracy  
 n/a
 	5. (Maximum) Bugs or Defect Rate  
-Es gibt nur einen Bug, nämlich, dass die App beim anlegen des aller-ersten Trainingsplans, also frisch nach der (Neu-)Installation, abstürzen kann. Dies sollte selbstverständlich nicht so sein und bis zum Ende der Entwicklung behoben sein, sodass der Nutzer nicht schon beim ersten Nutzen der App einen falschen Eindruck bekommt.
+n/a
 4. **Performance**
 	1. Response Time  
 Start der Applikation: 2 Sekunden  
 Reaktion auf Interaktionen: Im Normalfall sofort
 	2. Throughput  
 n/a
-	3. Capacity
+	3. Capacity  
 Die App ist für die Benutzung durch einen einzigen Nutzer ausgelegt
 	4. Degrading modes  
 n/a
