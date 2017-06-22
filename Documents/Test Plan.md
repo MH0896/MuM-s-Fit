@@ -4,7 +4,7 @@
 **MuM's Fit**  
 **Master Test Plan**
 
-**Version 1.5**
+**Version 1.6**
 
 ## Revision History ##
 
@@ -16,6 +16,7 @@
 |31/05/2017|1.3|Weiteren Inhalt hinzugefügt|MuM|
 |12/06/2017|1.4|Monkey-Stresstest hinzugefügt|MuM|
 |14/06/2017|1.5|Installationstest hinzugefügt|MuM|
+|22/06/2017|1.6|Update für final|MuM|
 
 
 ## Table of Contents ##
@@ -116,11 +117,11 @@ Tests reduzieren Fehler in sowohl bereits existierenden Features als auch in neu
 	- Unit-tests
 	- Funktions-tests
 	- Installations-tests
-2. **Outline of other candidates for potential inclusion**  
-	- Datenbank-tests
 	- Stresstests
+2. **Outline of other candidates for potential inclusion**  
+n/a
 3. **Outline of Test Exclusions**  
-	- Datenbank an sich
+	- Datenbank
 
 ## 5. Test Approach ##
 1. **Initial Test-Idea Catalogs and other reference sources**  
@@ -177,7 +178,7 @@ n/a
 ## 6. Entry and Exit Criteria ##
 1. **Test Plan**
 	1. Test Plan Entry Criteria  
-Bei jedem Deploy werden FUnktionstests automatisch ausgeführt. Stresstests oder Installations-tests werden manuell durchgeführt.
+Bei jedem Deploy werden Funktionstests automatisch ausgeführt. Stresstests oder Installations-tests werden manuell durchgeführt.
 	2. Test Plan Exit Criteria  
 Der Testplan ist beendet, sobald alle Tests erfolgreich durchgeführt wurden. Ausgenommen davon sind ggf. die manuellen Tests, je nach Umfang. 
 	3. Suspension and resumption criteria  

@@ -199,7 +199,7 @@ Die App ist für die Benutzung durch einen einzigen Nutzer ausgelegt
 	4. Degrading modes  
 n/a
 	5. Resource utilization  
-Momentan hat die App eine Größe von ~10 MB (auf den Testgeräten), wovon ca. 9MB für die App an sich benötigt werden. Die Gesamtgröße hängt logischerweise von der Menge von Trainingsplänen ab.
+Momentan hat die App eine Größe von 12 MB (auf den Testgeräten), wovon ca. 8MB für die Daten benötigt werden. Diese Größe hängt logischerweise von der Menge von Trainingsplänen ab. Eine ungefähre bzw. durchschnittliche End Größe ist jedoch aufgrund fehlender „großer“ Funktionen (wie den Statistiken zum Beispiel) noch nicht abzusehen.
 5. **Supportability**  
 n/a
 6. **Design Constraints**  
